@@ -1,0 +1,15 @@
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/bin/Debug/net6.0/Example001_HtlloConsole
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/bin/Debug/net6.0/Example001_HtlloConsole.deps.json
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/bin/Debug/net6.0/Example001_HtlloConsole.runtimeconfig.json
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/bin/Debug/net6.0/Example001_HtlloConsole.dll
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/bin/Debug/net6.0/Example001_HtlloConsole.pdb
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/obj/Debug/net6.0/Example001_HtlloConsole.csproj.AssemblyReference.cache
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/obj/Debug/net6.0/Example001_HtlloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/obj/Debug/net6.0/Example001_HtlloConsole.AssemblyInfoInputs.cache
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/obj/Debug/net6.0/Example001_HtlloConsole.AssemblyInfo.cs
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/obj/Debug/net6.0/Example001_HtlloConsole.csproj.CoreCompileInputs.cache
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/obj/Debug/net6.0/Example001_HtlloConsole.dll
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/obj/Debug/net6.0/refint/Example001_HtlloConsole.dll
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/obj/Debug/net6.0/Example001_HtlloConsole.pdb
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/obj/Debug/net6.0/Example001_HtlloConsole.genruntimeconfig.cache
+/Users/borzenets/Yandex.Disk.localized/Обучение GeekBrains/Знакомство с языками программирования/Examples/Example001_HtlloConsole/obj/Debug/net6.0/ref/Example001_HtlloConsole.dll
